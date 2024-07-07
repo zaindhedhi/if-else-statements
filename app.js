@@ -14,15 +14,26 @@
 //     console.log('Even Number')
 // }else{
 //     console.log('Odd Number')
+// // }
+
+// var age = prompt('Enter Your Age :')
+
+// if(age > 50){
+//     console.log('Senior Citizen')
+// } else if(age > 18){
+//     console.log('Old Enough')
+// }
+// else{
+//     console.log('Too Young')
 // }
 
-var age = prompt('Enter Your Age :')
+// var username = prompt('Enter Your Name')
 
-if(age > 50){
-    console.log('Senior Citizen')
-} else if(age > 18){
-    console.log('Old Enough')
-}
-else{
-    console.log('Too Young')
-}
+// var vowels = ('a,e,i,o,u')
+
+// if(username == vowels){
+//     console.log('contain vowels')
+// }
+
+
+
